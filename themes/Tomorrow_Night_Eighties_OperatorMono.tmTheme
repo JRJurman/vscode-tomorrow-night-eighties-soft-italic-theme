@@ -3,26 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>comment</key>
-	<string>http://chriskempson.com</string>
+	<string>http://www.jrjurman.com</string>
 	<key>name</key>
-	<string>Tomorrow Night - Eighties</string>
+	<string>Tomorrow Night - Eighties (soft)</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#2D2D2D</string>
+				<string>#2d2d2d</string>
 				<key>caret</key>
-				<string>#CCCCCC</string>
+				<string>#d6d6d6</string>
 				<key>foreground</key>
-				<string>#CCCCCC</string>
+				<string>#d6d6d6</string>
 				<key>invisibles</key>
 				<string>#6A6A6A</string>
 				<key>lineHighlight</key>
 				<string>#393939</string>
 				<key>selection</key>
-				<string>#515151</string>
+				<string>#646464</string>
 			</dict>
 		</dict>
 		<dict>
@@ -79,7 +79,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CCCCCC</string>
+				<string>#d6d6d6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -90,7 +90,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F2777A</string>
+				<string>#f78d8c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -103,7 +103,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F99157</string>
+				<string>#f99f57</string>
 			</dict>
 		</dict>
 		<dict>
@@ -116,7 +116,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFCC66</string>
+				<string>#ffd479</string>
 			</dict>
 		</dict>
 		<dict>
@@ -129,7 +129,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#99CC99</string>
+				<string>#a8d4a9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -140,7 +140,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#66CCCC</string>
+				<string>#76d4d6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -153,7 +153,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#6699CC</string>
+				<string>#78aad6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -164,7 +164,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CC99CC</string>
+				<string>#d7acd6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -179,7 +179,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CDCDCD</string>
+				<string>#d6d6d6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -192,7 +192,7 @@
 				<key>background</key>
 				<string>#99CCCC</string>
 				<key>foreground</key>
-				<string>#CDCDCD</string>
+				<string>#d6d6d6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -207,7 +207,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CDCDCD</string>
+				<string>#d6d6d6</string>
 			</dict>
 		</dict>
 	</array>

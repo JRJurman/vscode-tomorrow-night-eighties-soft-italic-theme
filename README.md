@@ -1,22 +1,32 @@
-# Tomorrow And Tomorrow Night Operator Mono Theme
+# Tomorrow Night Eighties (Soft) Italics Theme
 
-Make sure you have the Operator Mono font installed and have this setting on vscode
+Visual Studio Code extension to have a softer Tomorrow Night Eighties theme, with italics, for people using Ubuntu Mono or Operator Mono.
+
+## Colors
+
+
+## Terminal Colors
+If you want these colors for the integrated terminal, include the following in your settings:
 
 ```
-"editor.fontFamily": "Operator Mono, Consolas, 'Courier New', monospace"
+    "editor.colorCustomizations" : {
+        "editor.background": "#3b3b3b",
+        "editor.foreground": "#d6d6d6",
+        "editor.black": "#000000",
+        "editor.blue": "#78aad6",
+        "editor.brightBlack": "#000000",
+        "editor.brightBlue": "#78aad6",
+        "editor.brightCyan": "#76d4d6",
+        "editor.brightGreen": "#a8d4a9",
+        "editor.brightMagenta": "#d7acd6",
+        "editor.brightRed": "#f78d8c",
+        "editor.brightWhite": "#ffffff",
+        "editor.brightYellow": "#ffd479",
+        "editor.cyan": "#76d4d6",
+        "editor.green": "#a8d4a9",
+        "editor.magenta": "#d7acd6",
+        "editor.red": "#f78d8c",
+        "editor.white": "#ffffff",
+        "editor.yellow": "#ffd479"
+    }
 ```
-## Tomorrow
-
-![](https://raw.githubusercontent.com/chiragpat/tomorrow-and-tomorrow-night-operator-mono-theme/master/images/Tomorrow-preview.png)
-
-## Tomorrow Night
-
-![](https://raw.githubusercontent.com/chiragpat/tomorrow-and-tomorrow-night-operator-mono-theme/master/images/Tomorrow-Night-preview.png)
-
-## Tomorrow Night Bright
-
-![](https://raw.githubusercontent.com/chiragpat/tomorrow-and-tomorrow-night-operator-mono-theme/master/images/Tomorrow-Night-Bright-preview.png)
-
-## Tomorrow Night Eighties
-
-![](https://raw.githubusercontent.com/chiragpat/tomorrow-and-tomorrow-night-operator-mono-theme/master/images/eighties-preview.png)
